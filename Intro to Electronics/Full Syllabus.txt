@@ -1,0 +1,70 @@
+Chapters 1.1 – 1.4, 2.1 – 2.3
+   
+ • Diode: Basic structure and operating principle, current-voltage characteristic, large and small-signal models, iterative and graphical analysis
+   
+ • Diode Applications : Rectifier circuits (half-wave and full-wave rectifiers, rectifiers with capacitor filter), Voltage regulator (using Zener diode), Clipper (limiter) circuits, clamper circuits
+
+
+
+Chapters 5.1 – 5.4, 6.1 – 6.5
+    
+• BJT and their Applications: Structure and modes of operation 
+   
+• BJT n-p-n and p-n-p transistor in active mode, DC analysis of both transistor circuits
+   
+• BJT as an amplifier, small-signal equivalent circuits, single-stage BJT amplifier (common-emitter mode)
+    
+• BJT as a switch 
+
+
+
+
+POST MID SEM
+
+
+Chapters 3.1-3.3,  4.1-4.3
+    
+• MOSFET and their Applications: Structure and physical operation of n-type and p-type MOSFET 
+    
+• MOSFET: DC analysis of circuits 
+    
+• MOSFET as an amplifier, small-signal equivalent circuits, single-stage MOSFET amplifier (common-source mode) 
+    
+• MOSFET as a switch
+
+
+
+Chapters 9.1, 9.2, 9.3, 9.4, 9.5
+                                                                                                          
+• Operational Amplifier (Op Amp): Ideal op amp
+• Op Amp: Inverting amplifier, Amplifier with a T-network, effect of Finite Gain, Summing Amplifier 
+    
+• Op Amp: Non-inverting configuration, Voltage follower 
+    
+• Op Amp applications: Current-Voltage converter, Voltage-Current converter, Differential Amplifier, Instrumentation Amplifier, Integrator and Differentiator
+
+
+
+Chapters 12.1,12.2,12.3
+    
+• Feedback: Basic concepts of negative feedback
+    
+• Feedback: Four ideal feedback topologies 
+
+
+
+Chapters 15.2
+    
+• Oscillators: Basic principles of sinusoidal oscillation
+    
+• Oscillators:Example circuits
+
+
+    
+
+
+• Digital Electronics: Boolean algebra and rules of simplification (Read from anywhere)
+    
+• Digital Electronics: Combinational circuits like Adder, Decoder, Encoder, Multiplexer and De-Multiplexer (No idea, not in Neaman)
+    
+• Digital Electronics: Sequential circuits like Flip-Flops, Counters and Shift Registers (Chapters 16.7)

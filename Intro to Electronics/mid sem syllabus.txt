@@ -1,0 +1,20 @@
+Mid Sem Syllabus*:
+1. RC, RL and RLC circuits: Filters (LPF, HPF and BPF)
+2. Semiconductors and its theory: Intrintic, extrinsic, band diagram, doping and excess carriers
+3. pn junction diodes: Simple and zener, doping, formation of depletion region, characteristic curves and operation
+4. Diode Circuits: Rectifiers, filters, voltage regulators, clippers, clampers and logic gates
+5. BJT: Structure/ construction, various characteristic curves and modes of operation (CB and CE)
+6. BJT amplifier: Operation with q-point, switch, equivalent circuits and frequency response (gain and bandwidth)
+
+* The topics mentioned herein are indicative. Study the related topics as well, as I am covering in the class. 
+
+Pattern of questions: 60 marks; 2 hours
+1. Numericals (~40 %)
+2. Conceptual/ descriptive (~40 %)
+3. Objective type (multiple choice and fill-ins) (~20 %)
+
+Note: 
+1. Follow the topics that I am teaching in the class (until mid-sem) very carefully, tutorial questions & solutions, and the hints that I am providing in the class.
+2. Write your answers with adequate steps and clarity (step marking will be present), while considering the assigned marks. Assume suitable and valid parameters (if any) and justify clearly.
+3. Organize your answers together. No fragmentation of sub-questions is allowed strictly.
+4. Write in a clear/ legible hand-writing.
